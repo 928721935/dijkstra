@@ -2794,13 +2794,13 @@ public class MapUtil {
 		maps.add(place);
 	}
 
-	public static void main(String[] args) {
+	/*public static void main(String[] args) {
 		initMap();
 		long l = System.currentTimeMillis();
 		List<String> route = findRoute("钱庄(存取钱)", "乱石岗");
 		System.out.println(route.size()+"步");
 		System.out.println(System.currentTimeMillis()-l+"毫秒");
-	}
-	
+	}*/
+
 	
 }

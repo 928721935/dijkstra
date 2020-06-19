@@ -32,11 +32,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/jida/common/util/MapUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="2790" column="17" selection-start-line="2790" selection-start-column="17" selection-end-line="2790" selection-end-column="17" />
+            <state relative-caret-position="145">
+              <caret line="2796" column="4" selection-start-line="2796" selection-start-column="4" selection-end-line="2796" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jida/common/util/ListUDG2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17255">
+              <caret line="598" column="29" selection-start-line="598" selection-start-column="29" selection-end-line="598" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -102,7 +111,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/jida/common/exception/NotifyEnemyException.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jida/Main2.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/jida/task/RenWuTask.java" />
@@ -142,7 +150,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/jida/common/enums/TeacherEnum.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jida/serivce/EatDanService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jida/serivce/ZhuanShengService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jida/common/util/MapUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jida/thread/SimpleRunnable.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jida/serivce/SimpleService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jida/common/util/HanZi2ShuZiUtil.java" />
@@ -153,6 +160,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/jida/common/util/ScheduledUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jida/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jida/common/util/ConfigUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jida/common/util/ListUDG2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jida/common/util/MapUtil.java" />
       </list>
     </option>
   </component>
@@ -171,7 +180,17 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand />
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="TestHttp Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="TestHttp Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
       <select />
     </treeState>
   </component>
@@ -245,6 +264,60 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="TestHttp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestHttp8" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestHttp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestHttp8" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestHttp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestHttp8" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestHttp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestHttp8" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jida" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestHttp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestHttp8" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jida" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestHttp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestHttp8" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jida" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestHttp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestHttp8" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jida" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -292,7 +365,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MapUtil">
+  <component name="RunManager" selected="Application.ListUDG2">
     <configuration name="ConfigUtil2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jida.common.util.ConfigUtil2" />
       <module name="TestHttp" />
@@ -319,8 +392,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LogUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jida.common.util.LogUtil" />
+    <configuration name="ListUDG2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jida.common.util.ListUDG2" />
       <module name="TestHttp" />
       <extension name="coverage">
         <pattern>
@@ -360,11 +433,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ListUDG2" />
         <item itemvalue="Application.MapUtil" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.HanZi2ShuZiUtil" />
         <item itemvalue="Application.ConfigUtil2" />
-        <item itemvalue="Application.LogUtil" />
       </list>
     </recent_temporary>
   </component>
@@ -455,12 +528,12 @@
       <workItem from="1592372864657" duration="602000" />
       <workItem from="1592463884829" duration="2728000" />
       <workItem from="1592560405072" duration="747000" />
-      <workItem from="1592592536654" duration="229000" />
+      <workItem from="1592592536654" duration="1056000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="485028000" />
+    <option name="totallyTimeSpent" value="485855000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -483,10 +556,10 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Web" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="0" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.28602383" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.28602383" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
@@ -581,16 +654,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jida/task/TestTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="145" column="48" selection-start-line="145" selection-start-column="48" selection-end-line="145" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jida/entity/RuntimeInfo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="580">
@@ -957,10 +1020,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jida/common/util/ListUDG2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17255">
+          <caret line="598" column="29" selection-start-line="598" selection-start-column="29" selection-end-line="598" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jida/common/util/MapUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="2790" column="17" selection-start-line="2790" selection-start-column="17" selection-end-line="2790" selection-end-column="17" />
+        <state relative-caret-position="145">
+          <caret line="2796" column="4" selection-start-line="2796" selection-start-column="4" selection-end-line="2796" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
