@@ -1,0 +1,1042 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4be1334a-7c13-408d-80b2-2f0c17635f3b" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jida/common/util/MapUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="2790" column="17" selection-start-line="2790" selection-start-column="17" selection-end-line="2790" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>白眉</find>
+      <find>仙衣</find>
+      <find>basicClickByReg</find>
+      <find>没有这样</find>
+      <find>GSON</find>
+      <find>gsonFormatToString</find>
+      <find>gson</find>
+      <find>潜能</find>
+      <find>move</find>
+      <find>学艺</find>
+      <find>teacherEnum</find>
+      <find>你身上没有这样东西</find>
+      <find>你身上没有这样东西。</find>
+      <find>logBenefits</find>
+      <find>LOgL</find>
+      <find>夺宝神殿</find>
+      <find>冥思房</find>
+      <find>取回</find>
+      <find>cunQuXiu2</find>
+      <find>三万</find>
+      <find>stryiwan</find>
+      <find>isXiuQianDanEat</find>
+      <find>setXiuQianDanEat</find>
+      <find>humanInfo2.setXiuQianDanEat(true);</find>
+      <find>setXiuDanEat</find>
+      <find>eatXiuQianDan</find>
+      <find>每日补偿</find>
+      <find>dailyBuChang</find>
+      <find>-Dfile.encoding</find>
+      <find>setXueZhanMaxLevel(101)</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>ListUDG2</replace>
+      <replace>reflect</replace>
+      <replace>(</replace>
+      <replace>长安客栈（江湖起点）</replace>
+      <replace>+</replace>
+      <replace>humanInfo2.setXiuQianDanEat(true);</replace>
+      <replace>setXueZhanMaxLevel(201)</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\software\workspaceSts\TestHttp6\src\main\java\com\jida\util</dir>
+      <dir>D:\software\workspaceSts\TestHttp7\logs</dir>
+      <dir>D:\software\workspaceSts\TestHttp7\logs\个人历史日志</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/jida/common/exception/NotifyEnemyException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jida/Main2.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jida/task/RenWuTask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jida/common/enums/TaskEnum.java" />
+        <option value="$PROJECT_DIR$/logs/个人历史日志/携手奈何桥.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jida/entity/Reflect.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jida/common/enums/CommandEnum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jida/TestUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jida/task/XueZhanTask.java" />
+        <option value="$PROJECT_DIR$/logs/系统日志.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jida/common/util/IpUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jida/task/HuaShanTask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jida/task/SingJinTask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jida/task/SongJinTask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jida/task/ZhuiShaTask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jida/common/util/ReflectUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jida/common/exception/RestartException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jida/task/RestartTask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jida/task/ZuDui2Task.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jida/common/exception/GenXinException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jida/task/GenXinTask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jida/task/ZuDuiTask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jida/common/exception/EscapeException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jida/task/TestTask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jida/entity/RuntimeInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jida/task/SecondTask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jida/common/util/ClickUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jida/common/util/CommonUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jida/entity/SkillInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jida/common/enums/SpecialSkillEnum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jida/common/enums/SkillMedicineEnum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jida/entity/SkillMedicineCountInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jida/common/constant/StaticDescription.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jida/common/util/LogUtil.java" />
+        <option value="$PROJECT_DIR$/logs/卡顿日志/ssss.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jida/common/util/ConfigUtil2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jida/common/enums/TeacherEnum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jida/serivce/EatDanService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jida/serivce/ZhuanShengService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jida/common/util/MapUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jida/thread/SimpleRunnable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jida/serivce/SimpleService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jida/common/util/HanZi2ShuZiUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jida/entity/BenefitsInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jida/entity/HumanInfo.java" />
+        <option value="$PROJECT_DIR$/logs/数据信息/锦字.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jida/task/BenefitsTask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jida/common/util/ScheduledUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jida/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jida/common/util/ConfigUtil.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\software\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TestHttp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestHttp8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestHttp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestHttp8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestHttp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestHttp8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestHttp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestHttp8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestHttp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestHttp8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jida" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestHttp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestHttp8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jida" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestHttp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestHttp8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jida" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestHttp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestHttp8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/jida" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jida.common.util" />
+      <recent name="com.jida.common.enums" />
+      <recent name="com.jida.common.exception" />
+      <recent name="com.jida.task" />
+      <recent name="com.jida" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\software\workspaceSts\TestHttp7\logs\数据信息" />
+      <recent name="D:\software\workspaceSts\TestHttp7\target" />
+      <recent name="D:\software\workspaceSts\TestHttp7\src\main\java\com\jida\entity" />
+      <recent name="D:\software\workspaceSts\TestHttp7\src\main\java\com\jida\util\entity" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MapUtil">
+    <configuration name="ConfigUtil2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jida.common.util.ConfigUtil2" />
+      <module name="TestHttp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jida.common.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HanZi2ShuZiUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jida.common.util.HanZi2ShuZiUtil" />
+      <module name="TestHttp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jida.common.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jida.common.util.LogUtil" />
+      <module name="TestHttp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jida.common.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jida.Main" />
+      <module name="TestHttp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jida.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jida.common.util.MapUtil" />
+      <module name="TestHttp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jida.common.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MapUtil" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.HanZi2ShuZiUtil" />
+        <item itemvalue="Application.ConfigUtil2" />
+        <item itemvalue="Application.LogUtil" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4be1334a-7c13-408d-80b2-2f0c17635f3b" name="Default Changelist" comment="" />
+      <created>1584696562561</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584696562561</updated>
+      <workItem from="1584696565073" duration="1374000" />
+      <workItem from="1584953014204" duration="769000" />
+      <workItem from="1585019968198" duration="765000" />
+      <workItem from="1585184994793" duration="4000" />
+      <workItem from="1586017502421" duration="14159000" />
+      <workItem from="1586061020098" duration="12739000" />
+      <workItem from="1586091801829" duration="6495000" />
+      <workItem from="1586099545097" duration="3490000" />
+      <workItem from="1586137380131" duration="18687000" />
+      <workItem from="1586269662310" duration="1000000" />
+      <workItem from="1586270980117" duration="338000" />
+      <workItem from="1586271328278" duration="5708000" />
+      <workItem from="1586352767637" duration="3613000" />
+      <workItem from="1586356457479" duration="7483000" />
+      <workItem from="1586396993430" duration="10126000" />
+      <workItem from="1586501825432" duration="11927000" />
+      <workItem from="1586936698235" duration="891000" />
+      <workItem from="1587093372399" duration="380000" />
+      <workItem from="1587366308326" duration="597000" />
+      <workItem from="1587522716682" duration="598000" />
+      <workItem from="1587612445768" duration="596000" />
+      <workItem from="1587747372785" duration="10276000" />
+      <workItem from="1587788477205" duration="37168000" />
+      <workItem from="1587863036127" duration="29531000" />
+      <workItem from="1588145951621" duration="24516000" />
+      <workItem from="1588183251131" duration="597000" />
+      <workItem from="1588208703831" duration="40732000" />
+      <workItem from="1588309136803" duration="32990000" />
+      <workItem from="1588397635846" duration="34890000" />
+      <workItem from="1588469820167" duration="5877000" />
+      <workItem from="1588504479091" duration="15631000" />
+      <workItem from="1588528432184" duration="936000" />
+      <workItem from="1588554503438" duration="5762000" />
+      <workItem from="1588614285374" duration="3875000" />
+      <workItem from="1588647850441" duration="1846000" />
+      <workItem from="1588676312426" duration="630000" />
+      <workItem from="1588692831163" duration="10000" />
+      <workItem from="1588698848416" duration="486000" />
+      <workItem from="1588800536990" duration="730000" />
+      <workItem from="1588862112097" duration="4876000" />
+      <workItem from="1588931776327" duration="14591000" />
+      <workItem from="1588959041877" duration="180000" />
+      <workItem from="1589119483439" duration="2069000" />
+      <workItem from="1589167139836" duration="11604000" />
+      <workItem from="1589247692881" duration="6792000" />
+      <workItem from="1589277948765" duration="3404000" />
+      <workItem from="1589298913793" duration="1185000" />
+      <workItem from="1589332631275" duration="16717000" />
+      <workItem from="1589420367927" duration="4447000" />
+      <workItem from="1589474505603" duration="3205000" />
+      <workItem from="1589539239926" duration="3473000" />
+      <workItem from="1589596199381" duration="4929000" />
+      <workItem from="1589711910116" duration="5144000" />
+      <workItem from="1589780982466" duration="1453000" />
+      <workItem from="1589783875091" duration="15609000" />
+      <workItem from="1589856027509" duration="1643000" />
+      <workItem from="1589896570179" duration="6536000" />
+      <workItem from="1589942818673" duration="1146000" />
+      <workItem from="1590046748335" duration="797000" />
+      <workItem from="1590382166180" duration="1193000" />
+      <workItem from="1590508564482" duration="597000" />
+      <workItem from="1590835587266" duration="1231000" />
+      <workItem from="1590986640778" duration="804000" />
+      <workItem from="1591064401606" duration="5255000" />
+      <workItem from="1591116224617" duration="2661000" />
+      <workItem from="1591449295782" duration="1294000" />
+      <workItem from="1591450817280" duration="876000" />
+      <workItem from="1591542996012" duration="2550000" />
+      <workItem from="1591975567205" duration="644000" />
+      <workItem from="1591986296084" duration="1547000" />
+      <workItem from="1592074611376" duration="2114000" />
+      <workItem from="1592110716281" duration="41000" />
+      <workItem from="1592231459352" duration="55000" />
+      <workItem from="1592301038653" duration="1838000" />
+      <workItem from="1592372864657" duration="602000" />
+      <workItem from="1592463884829" duration="2728000" />
+      <workItem from="1592560405072" duration="747000" />
+      <workItem from="1592592536654" duration="229000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="485028000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4968153" visible="true" weight="0.24200426" />
+      <window_info id="Structure" order="1" sideWeight="0.50318474" side_tool="true" weight="0.20575693" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.28602383" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.34777898" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Maven" order="1" visible="true" weight="0.12100213" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Ant Build" order="5" weight="0.25" />
+      <window_info anchor="right" id="Bean Validation" order="6" weight="0.32995737" />
+      <window_info anchor="right" id="JSF" order="7" weight="0.32995737" />
+      <window_info anchor="right" id="Database" order="8" weight="0.32995737" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="CDI" order="11" weight="0.32995737" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/jida/task/BenefitsTask.java</url>
+          <line>326</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>realName.equals(&quot;携手奈何桥&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>realName.equals()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>SimpleRunnable.getHumanInfo().getRealName().eq</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>SimpleRunnable.getHumanInfo().getRealName().equals(&quot;携手奈何桥&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>SimpleRunnable.getHumanInfo().getRealName().equals(&quot;携手奈何桥&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i=22</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>route.equals(&quot;北：拈花寺&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i==mVexs.length-1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>j==mVexs.length-1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jida/task/TestTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="145" column="48" selection-start-line="145" selection-start-column="48" selection-end-line="145" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jida/entity/RuntimeInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/个人历史日志/天锋小子.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7453">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/start.bat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/个人历史日志/网络情缘.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63075" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/个人历史日志/胡一刀.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-73225" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/个人历史日志/龙吟夫下.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-68498">
+          <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/个人历史日志/龙吟夭下.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-145248" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/个人历史日志/楚儿.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-376262" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/个人历史日志/唐伯虎点蚊香.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2900" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jida/entity/SkillInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" lean-forward="true" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jida/common/enums/SkillEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jida/common/enums/NPCEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jida/common/enums/TaskType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jida/common/enums/SkillMedicineEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="29" />
+          <folding>
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jida/common/enums/SpecialSkillEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jida/common/enums/JiNengEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jida/entity/SkillMedicineCountInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jida/task/ZhuiShaTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="27" column="16" lean-forward="true" selection-start-line="26" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/系统日志.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="593">
+          <caret line="51" column="39" lean-forward="true" selection-start-line="51" selection-start-column="39" selection-end-line="51" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jida/common/constant/StaticDescription.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/数据信息/唐伯虎点蚊香.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/卡顿日志/ssss.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="754">
+          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jida/common/enums/MedicineEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="34" column="4" lean-forward="true" selection-start-line="34" selection-start-column="4" selection-end-line="41" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jida/task/SecondTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="29" column="27" lean-forward="true" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jida/serivce/ZhuanShengService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1247">
+          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jida/common/util/IpUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jida/serivce/EatDanService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1943">
+          <caret line="80" column="16" selection-start-line="80" selection-start-column="16" selection-end-line="80" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jida/common/util/LogUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5133">
+          <caret line="191" selection-start-line="191" selection-end-line="191" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jida/common/enums/TeacherEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jida/common/util/ConfigUtil2.java" />
+    <entry file="jar://$PROJECT_DIR$/../../Java/jdk1.8.0_51/src.zip!/java/util/concurrent/ForkJoinPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="1254" column="8" selection-start-line="1254" selection-start-column="8" selection-end-line="1254" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Java/jdk1.8.0_51/src.zip!/java/util/concurrent/Executors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="559">
+          <caret line="181" column="70" selection-start-line="181" selection-start-column="70" selection-end-line="181" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jida/thread/SimpleRunnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2117">
+          <caret line="93" column="28" selection-start-line="93" selection-start-column="28" selection-end-line="93" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4042#4043#0" expanded="true" />
+            <element signature="e#4084#4085#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jida/serivce/SimpleService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8091">
+          <caret line="301" selection-start-line="301" selection-end-line="301" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jida/common/util/ClickUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5481">
+          <caret line="210" column="25" selection-start-line="210" selection-start-column="25" selection-end-line="210" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jida/task/XueZhanTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2436">
+          <caret line="93" column="25" selection-start-line="93" selection-start-column="25" selection-end-line="93" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jida/common/util/HanZi2ShuZiUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="124" column="58" selection-start-line="124" selection-start-column="58" selection-end-line="124" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jida/common/constant/StaticConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="899">
+          <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jida/entity/BenefitsInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/数据信息/胡一刀.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/数据信息/锦字.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jida/task/BenefitsTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1305">
+          <caret line="59" column="68" selection-start-line="59" selection-start-column="68" selection-end-line="59" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jida/common/util/CommonUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6264">
+          <caret line="234" column="23" selection-start-line="234" selection-start-column="23" selection-end-line="234" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jida/common/util/ScheduledUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1856">
+          <caret line="79" column="68" selection-start-line="79" selection-start-column="68" selection-end-line="79" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jida/common/util/ConfigUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3538">
+          <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jida/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="38" column="21" lean-forward="true" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jida/entity/HumanInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jida/common/util/MapUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="2790" column="17" selection-start-line="2790" selection-start-column="17" selection-end-line="2790" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
